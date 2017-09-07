@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: pyasn1.SlackBuild,v 1.7 2017/09/04 13:02:25 gsotirov Exp $
+# $Id: pyasn1.SlackBuild,v 1.8 2017/09/07 08:18:49 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME='pyasn1'
-VERSION=0.3.3
+VERSION=0.3.4
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
