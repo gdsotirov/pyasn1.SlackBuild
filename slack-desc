@@ -9,4 +9,4 @@ pyasn1: standard compliant BER/CER/DER codecs, 100% Python (works with 2.4 to
 pyasn1: 3.5), multi-thread safe, but it has no ASN.1 compiler and codecs are
 pyasn1: not restartable
 pyasn1:
-pyasn1: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+pyasn1: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
